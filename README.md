@@ -1,5 +1,14 @@
 <h1 align="center">Gmail Creator Stealth Bot</h1>
 
+
+## Project Overview:
+This project automates Gmail account creation with stealth browsing and full n8n workflow orchestration. It’s built for high-scale operations like bulk account generation or profile farming, all while bypassing detection mechanisms. The system tackles tricky hurdles—browser fingerprinting, IP bans, inconsistent verifications by combining anti-detect browsers, proxy rotation, and CAPTCHA-solving tools (like CapMonster or 2Captcha). With n8n running the show, the whole pipeline stays modular and flexible, from form filling to cookie/session handling.
+
+## Core Features:
+- **Undetectable Automation:** Uses anti-detect browsers and randomized fingerprints to blend in like a real user.
+- **Seamless Orchestration with n8n:** Each step—proxy allocation, CAPTCHA solving, form submission—is modular and programmable.
+- **Scalable by Design:** Built for spawning and maintaining hundreds of Google accounts, without getting flagged.
+
 <div align="center">
   <img
     src="https://github.com/user-attachments/assets/d200549d-7613-446f-a43b-19a4117ca360"
@@ -62,14 +71,6 @@
 <span>
 
 <div align="left">
-
-## Project Overview:
-This project automates Gmail account creation with stealth browsing and full n8n workflow orchestration. It’s built for high-scale operations like bulk account generation or profile farming, all while bypassing detection mechanisms. The system tackles tricky hurdles—browser fingerprinting, IP bans, inconsistent verifications by combining anti-detect browsers, proxy rotation, and CAPTCHA-solving tools (like CapMonster or 2Captcha). With n8n running the show, the whole pipeline stays modular and flexible, from form filling to cookie/session handling.
-
-## Core Strengths:
-- **Undetectable Automation:** Uses anti-detect browsers and randomized fingerprints to blend in like a real user.
-- **Seamless Orchestration with n8n:** Each step—proxy allocation, CAPTCHA solving, form submission—is modular and programmable.
-- **Scalable by Design:** Built for spawning and maintaining hundreds of Google accounts, without getting flagged.
 
 
 ## Features List:
